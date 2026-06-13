@@ -4,3 +4,4 @@ langchain-groq
 chromadb
 pandas
 python-dotenv
+beautifulsoup4
